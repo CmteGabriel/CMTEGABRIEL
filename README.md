@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá, eu sou o Gabriel 👋💻💡
 
-<!--
-**CmteGabriel/CMTEGABRIEL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌟 Sobre Mim
+- 🎓 Estudante de Engenharia de Computação e Ciência de Dados.
+- 📊 Experiência em análise de dados para prevenção de fraudes.
+- 🚀 Explorando e aprendendo a cada dia mais sobre análise e ciência de dados e tecnologias emergentes.
 
-Here are some ideas to get you started:
+## 🛠️ Habilidades
+- **Linguagens**: Python, SQL, Excel
+- **Ferramentas**: Pandas, NumPy, Matplotlib, Seaborn, DataBricks, Power BI
+- **Outros**: Git, Jupyter Notebook, Visualização de Dados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Atualmente
+- Estudando análises preditivas e Machine Learning para desenvolver soluções inteligentes e aplicáveis ao mundo real.
+
+## 🌐 Me Encontre
+- [LinkedIn](https://www.linkedin.com/in/gabriel-ribeiro-da-silva-ds/)
+- [E-mail](cmdt.gabriel@gmail.com)
